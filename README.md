@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bloodology](https://github.com/mhndroid/Bloodology-Android-App)
 
-- 👨‍💻 All of my projects are available at [https://imhussain.1000projectwork.com/](https://imhussain.1000projectwork.com/)
+- 👨‍💻 All of my projects are available at (https://imhussain31.github.io/MH-Portfolio/)
 
 - 💬 Ask me about **Android , DS & Algo and CP**
 
