@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhussain31&label=Profile%20views&color=0e75b6&style=flat" alt="imhussain31" /> </p>
 
-- 🔭 I’m currently working on [Bloodology](https://github.com/mhndroid/Bloodology-Android-App)
-
 - 👨‍💻 All of my projects are available at (https://imhussain31.github.io/MH-Portfolio/)
 
 - 💬 Ask me about **Android , DS & Algo and CP**
