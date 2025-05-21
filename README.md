@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (https://imhussain31.github.io/MH-Portfolio/)
 
-- 💬 Ask me about **Android , DS & Algo and CP**
+- 💬 Ask me about **Android, DS & Algo and CP**
 
 - 📫 How to reach me **imhussain9014@gmail.com**
 
